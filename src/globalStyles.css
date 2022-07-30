@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --clr-primary: #030303;
+  --clr-primary-light: #909090;
+  --topbar-height: 10vh;
+  --sidebar-width: 15vw;
+  --sidebar-short-width: 7vw;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
